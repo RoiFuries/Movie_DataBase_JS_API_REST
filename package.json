@@ -1,0 +1,23 @@
+{
+  "name": "movie_database_js_api_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoiFuries/Movie_DataBase_JS_API_REST.git"
+  },
+  "keywords": [
+    "API",
+    "REST"
+  ],
+  "author": "Roi Furies - hola@roifuries.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoiFuries/Movie_DataBase_JS_API_REST/issues"
+  },
+  "homepage": "https://github.com/RoiFuries/Movie_DataBase_JS_API_REST#readme"
+}
